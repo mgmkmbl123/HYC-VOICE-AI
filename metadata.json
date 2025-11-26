@@ -1,0 +1,7 @@
+{
+  "name": "GuruVoice AI Tutor",
+  "description": "A real-time multilingual AI tutor that teaches in Kannada, Hindi, and English using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
